@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jomonpalayur" target="blank"><img src="https://img.shields.io/twitter/follow/jomonpalayur?logo=twitter&style=for-the-badge" alt="jomonpalayur" /></a> </p>
 
-- 🔭 I’m currently working on **AI Image Mapping**
+- 🔭 I’m currently working on **An Automated Crop Monitoring and Maintenance system**
 
 - 🌱 I’m currently learning **HDL, Web development**
 
